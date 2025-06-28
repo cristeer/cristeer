@@ -16,5 +16,5 @@ Estudante de Sistemas de Informação pela UFV 🏛
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🎲 GitHub Stats:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristeer&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/cristeer/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristeer&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/cristeer/github-readme-stats)
 
