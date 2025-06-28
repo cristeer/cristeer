@@ -16,5 +16,5 @@ Estudante de Sistemas de Informação pela UFV 🏛
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🎲 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cristeer&theme=transparent&bg_color=0D1117&border_color=6A0DAD&show_icons=true&icon_color=8A2BE2&title_color=9B30FF&text_color=D8BFD8)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristeer&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/cristeer/github-readme-stats)
 
