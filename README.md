@@ -27,8 +27,8 @@
 />
 <img 
     align="left" 
-    alt="Fedora"
-    title="Fedora" 
+    alt="Fedora Linux"
+    title="Fedora Linux" 
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg"          
