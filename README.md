@@ -1,5 +1,5 @@
 
-# 🧑‍💻 Samuel Crister 
+# 💻 Samuel Crister 
 
 **`Estudante de Sistemas de Informação pela UFV 🏛`**
 
